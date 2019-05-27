@@ -1,0 +1,12 @@
+Download chromedriver from http://chromedriver.chromium.org/ and extract in this directory
+If you have system chromedriver: change line 20:
+from:
+    dr = webdriver.Chrome('./chromedriver', options=options)
+to:
+    dr = webdriver.Chrome(options=options)
+
+Requirements:
+- Pillow
+- Selenium
+
+Approximate script time: 8 min

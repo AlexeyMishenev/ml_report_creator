@@ -1,0 +1,76 @@
+{
+  "sign_in": "https://www.datacamp.com/users/sign_in",
+  "base_url": "https://campus.datacamp.com/courses",
+  "courses": {
+    "supervised-learning-with-scikit-learn": {
+      "classification": {
+        "ex": 12
+      },
+      "regression-2": {
+        "ex": 13
+      },
+      "fine-tuning-your-model": {
+        "ex": 15
+      },
+      "preprocessing-and-pipelines": {
+        "ex": 14
+      }
+    },
+    "unsupervised-learning-in-python": {
+      "clustering-for-dataset-exploration": {
+        "ex": 13
+      },
+      "visualization-with-hierarchical-clustering-and-t-sne": {
+        "ex": 12
+      },
+      "decorrelating-your-data-and-dimension-reduction": {
+        "ex": 13
+      },
+      "discovering-interpretable-features": {
+        "ex": 15
+      }
+    },
+    "linear-classifiers-in-python": {
+      "applying-logistic-regression-and-svm": {
+        "ex": 10
+      },
+      "loss-functions": {
+        "ex": 10
+      },
+      "logistic-regression-3": {
+        "ex": 13
+      },
+      "support-vector-machines": {
+        "ex": 11
+      }
+    },
+    "machine-learning-with-the-experts-school-budgets": {
+      "exploring-the-raw-data": {
+        "ex": 13
+      },
+      "creating-a-simple-first-model": {
+        "ex": 13
+      },
+      "improving-your-model": {
+        "ex": 12
+      },
+      "learning-from-the-experts": {
+        "ex": 13
+      }
+    },
+    "deep-learning-in-python": {
+      "basics-of-deep-learning-and-neural-networks": {
+        "ex": 12
+      },
+      "optimizing-a-neural-network-with-backward-propagation": {
+        "ex": 14
+      },
+      "building-deep-learning-models-with-keras": {
+        "ex": 11
+      },
+      "fine-tuning-keras-models": {
+        "ex": 13
+      }
+    }
+  }
+}
